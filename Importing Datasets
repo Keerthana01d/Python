@@ -1,0 +1,29 @@
+
+Python libraries:
+  1.numpy
+  2.pandas
+  3.sklearn
+
+Data pipelines:
+  Normalization -> Polynomial transform -> Linear Regression
+  |__________transformation____________|   |__prediction___|
+
+Terms:
+  Dataset
+  CSV
+  Attributes
+  Target
+  Predictors
+
+Scientific Computing Libraries in Python
+  1.Pandas- DataStructure and tools
+  2.NumPy- Arrays and matrices
+  3.SciPy- Integrals, Solving differential equations, Optimization
+
+Visualization Libraries in Python
+  1.Matplotlib- plots & graphs
+  2.Seaborn- plots: heat maps, time series, violin plots
+
+Algorithmic Libraries in Python
+  1.Scikit-learn- ML: Regression, Classification, ..
+  2.Statsmodel- Explore data, estimate statical models and perform statistical tests
